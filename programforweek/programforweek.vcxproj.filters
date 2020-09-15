@@ -51,5 +51,14 @@
     <ClCompile Include="q5_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="q6_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="q6_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="q6_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
