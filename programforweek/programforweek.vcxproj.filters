@@ -72,5 +72,8 @@
     <ClCompile Include="q6_7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="q9_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
