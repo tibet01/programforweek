@@ -13,7 +13,7 @@ int main()
     float m = 0, mt, a, b;
     for (int i = 0; i < 10; i++)
     {
-        scanf_s("%f %fi", &num.x[i], &num.y[i]);
+        scanf_s("(%f,%f)", &num.x[i], &num.y[i]);
     }
     for (int i = 0; i < 10; i++)
     {
