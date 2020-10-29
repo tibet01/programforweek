@@ -81,5 +81,8 @@
     <ClCompile Include="q11_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="q12_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
